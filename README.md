@@ -4,6 +4,7 @@ A collection of CAD work created in **Fusion 360**, organized by project with dr
 
 ## What’s inside
 This repo focuses on:
+- **3D models (STEP/STP) — export for sharing and manufacturing/CAM workflows
 - **Drawings (PDF)** — dimensioned documentation
 - **Renders (PNG)** — presentation images / screenshots
 - **Assemblies & parts** — separated for clarity
