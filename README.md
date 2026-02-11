@@ -35,6 +35,13 @@ Example from this repo:
 - Part renders: `projects/Parts/renders/`
 - Assembly drawing: `projects/assemblies/resume_assembly_1/drawings/`
 - Assembly renders: `projects/assemblies/resume_assembly_1/renders/`
+### 2) Reume 2 (Assembly and parts)
+**what to look at**
+- Part drawing: `projects/assemblies/drawings/`
+- Part renders: `projects/assemblies/renders/`
+- Assembly drawing: `projects/assemblies/resume_assembly_2/drawings/`
+- Assembly renders: `projects/assemblies/resume_assembly_2/renders/`
+
 
 **Notes**
 - Drawing versions use `v1`, `v2`, etc.
